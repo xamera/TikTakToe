@@ -77,20 +77,3 @@ public class TicTakToe {
         return rueck;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
